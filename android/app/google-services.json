@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "471545164012",
+    "firebase_url": "https://distributeur-4a913-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "distributeur-4a913",
+    "storage_bucket": "distributeur-4a913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471545164012:android:960d4a6e9bb3f463fa75c9",
+        "android_client_info": {
+          "package_name": "com.dhia.pfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSeL03053IwPja7_8fZv0iJTEHwvU6xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471545164012-8rvggrse2u0eev7fsbhkvl5npvshh7mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reminder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471545164012:android:e582a169bbce1f02fa75c9",
+        "android_client_info": {
+          "package_name": "com.example.distributeur_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSeL03053IwPja7_8fZv0iJTEHwvU6xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471545164012-8rvggrse2u0eev7fsbhkvl5npvshh7mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reminder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471545164012:android:945fee8e672e7b91fa75c9",
+        "android_client_info": {
+          "package_name": "com.example.pfe_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSeL03053IwPja7_8fZv0iJTEHwvU6xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471545164012-8rvggrse2u0eev7fsbhkvl5npvshh7mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reminder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471545164012:android:c6a29ce3d78b6909fa75c9",
+        "android_client_info": {
+          "package_name": "com.example.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSeL03053IwPja7_8fZv0iJTEHwvU6xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471545164012-k20bp824fi193rm69tu9phiegm6cinie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471545164012-8rvggrse2u0eev7fsbhkvl5npvshh7mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reminder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
